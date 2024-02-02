@@ -33,6 +33,7 @@ and take your mac go around.
 ## Collect the received signal strength interval (RSSI) of different IDs
 
 ```zsh
+mkdir samples
 python getSamples.py
 ```
 
